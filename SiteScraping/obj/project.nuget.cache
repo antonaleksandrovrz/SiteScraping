@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2vI5S3j4Wo8KM6YfTfwcAMra5LjkLB9YF02/NYFSoMMYxxjN7+oU9mq3Jwm4s1QXplP65DReHqSvefWGAzsQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anton\\source\\repos\\SiteScraping\\SiteScraping\\SiteScraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton\\.nuget\\packages\\htmlagilitypack\\1.11.38\\htmlagilitypack.1.11.38.nupkg.sha512"
+  ],
+  "logs": []
+}
